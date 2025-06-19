@@ -1,6 +1,6 @@
 # Thanks for checking out my Github!
 
-I'm Ryan, a senior software engineer at [ThousandEyes (part of Cisco)](https://www.thousandeyes.com/) with a passion for democratizing tech.
+I'm Ryan, a senior software engineer at [Cisco ThousandEyes](https://www.thousandeyes.com/) with a passion for democratizing tech.
 
 Recently, I have been working on a SaaS app called [ThousandEyes](https://www.thousandeyes.com), which strives to be the Google Maps of the internet. Using languages like C++, Java, Rust, Python, and more in a massively scalable Kubernetes deployment in AWS, I contribute to this mission, enabling customers around the world to understand network outages and react with insights they could have never had before. Check it out our free [outage map](https://www.thousandeyes.com/outages/).
 
